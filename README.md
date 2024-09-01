@@ -15,7 +15,7 @@ This project uses a pre-trained BERT model for Named Entity Recognition (NER) ta
 * tqdm for progress bars <br>
 ## Installation
 To set up the environment, clone this repository and install the necessary Python packages:
-git clone <repository_url><br>
+git clone https://github.com/Avnish2004/nert_bert<br>
 cd <repository_directory> <br>
 pip install -r requirements.txt <br>
 
