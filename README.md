@@ -1,4 +1,5 @@
 # BERT-Based Named Entity Recognition (NER) Model
+https://github.com/Avnish2004/nert_bert.git<br>
 ## Overview<br>
 This project uses a pre-trained BERT model for Named Entity Recognition (NER) tasks. The model is fine-tuned on custom data for token classification. It identifies entities in text sequences based on the labels provided in the training data. <br>
 ## Table of Contents
@@ -15,7 +16,7 @@ This project uses a pre-trained BERT model for Named Entity Recognition (NER) ta
 * tqdm for progress bars <br>
 ## Installation
 To set up the environment, clone this repository and install the necessary Python packages:
-git clone https://github.com/Avnish2004/nert_bert<br>
+git clone https://github.com/Avnish2004/nert_bert.git<br>
 cd <repository_directory> <br>
 pip install -r requirements.txt <br>
 
